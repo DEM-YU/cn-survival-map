@@ -1,0 +1,482 @@
+[
+  {
+    "city": "沈阳",
+    "keyword": "五花肉",
+    "rank": 1,
+    "product_name": "精选五花肉 鲜切 500g",
+    "price": 12.7,
+    "unit": "500g"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "五花肉",
+    "rank": 2,
+    "product_name": "国产猪五花肉 去皮 500g",
+    "price": 12.8,
+    "unit": "500g"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "五花肉",
+    "rank": 3,
+    "product_name": "冷鲜五花肉 带皮 1kg",
+    "price": 31.9,
+    "unit": "1kg"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "散装鸡蛋",
+    "rank": 1,
+    "product_name": "新鲜散装鸡蛋 500g",
+    "price": 6.3,
+    "unit": "500g"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "散装鸡蛋",
+    "rank": 2,
+    "product_name": "农家散养土鸡蛋 10枚",
+    "price": 8.0,
+    "unit": "10枚"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "散装鸡蛋",
+    "rank": 3,
+    "product_name": "优选散装鸡蛋 1kg",
+    "price": 13.4,
+    "unit": "1kg"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "东北大米",
+    "rank": 1,
+    "product_name": "东北珍珠大米 5kg",
+    "price": 73.1,
+    "unit": "5kg"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "东北大米",
+    "rank": 2,
+    "product_name": "五常稻花香大米 10kg",
+    "price": 112.7,
+    "unit": "10kg"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "东北大米",
+    "rank": 3,
+    "product_name": "东北长粒香大米 2.5kg",
+    "price": 68.1,
+    "unit": "2.5kg"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "金龙鱼大豆油",
+    "rank": 1,
+    "product_name": "金龙鱼精炼一级大豆油 5L",
+    "price": 55.2,
+    "unit": "5L"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "金龙鱼大豆油",
+    "rank": 2,
+    "product_name": "金龙鱼大豆油 食用油 1.8L",
+    "price": 25.1,
+    "unit": "1.8L"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "金龙鱼大豆油",
+    "rank": 3,
+    "product_name": "金龙鱼阳光大豆油 900ml",
+    "price": 12.8,
+    "unit": "900ml"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "纯牛奶",
+    "rank": 1,
+    "product_name": "伊利纯牛奶 250ml*12",
+    "price": 37.4,
+    "unit": "250ml*12"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "纯牛奶",
+    "rank": 2,
+    "product_name": "蒙牛纯牛奶 整箱 250ml*24",
+    "price": 66.4,
+    "unit": "250ml*24"
+  },
+  {
+    "city": "沈阳",
+    "keyword": "纯牛奶",
+    "rank": 3,
+    "product_name": "特仑苏纯牛奶 1L",
+    "price": 11.6,
+    "unit": "1L"
+  },
+  {
+    "city": "上海",
+    "keyword": "五花肉",
+    "rank": 1,
+    "product_name": "精选五花肉 鲜切 500g",
+    "price": 22.3,
+    "unit": "500g"
+  },
+  {
+    "city": "上海",
+    "keyword": "五花肉",
+    "rank": 2,
+    "product_name": "国产猪五花肉 去皮 500g",
+    "price": 20.1,
+    "unit": "500g"
+  },
+  {
+    "city": "上海",
+    "keyword": "五花肉",
+    "rank": 3,
+    "product_name": "冷鲜五花肉 带皮 1kg",
+    "price": 42.0,
+    "unit": "1kg"
+  },
+  {
+    "city": "上海",
+    "keyword": "散装鸡蛋",
+    "rank": 1,
+    "product_name": "新鲜散装鸡蛋 500g",
+    "price": 8.8,
+    "unit": "500g"
+  },
+  {
+    "city": "上海",
+    "keyword": "散装鸡蛋",
+    "rank": 2,
+    "product_name": "农家散养土鸡蛋 10枚",
+    "price": 10.2,
+    "unit": "10枚"
+  },
+  {
+    "city": "上海",
+    "keyword": "散装鸡蛋",
+    "rank": 3,
+    "product_name": "优选散装鸡蛋 1kg",
+    "price": 19.0,
+    "unit": "1kg"
+  },
+  {
+    "city": "上海",
+    "keyword": "东北大米",
+    "rank": 1,
+    "product_name": "东北珍珠大米 5kg",
+    "price": 72.6,
+    "unit": "5kg"
+  },
+  {
+    "city": "上海",
+    "keyword": "东北大米",
+    "rank": 2,
+    "product_name": "五常稻花香大米 10kg",
+    "price": 174.3,
+    "unit": "10kg"
+  },
+  {
+    "city": "上海",
+    "keyword": "东北大米",
+    "rank": 3,
+    "product_name": "东北长粒香大米 2.5kg",
+    "price": 94.2,
+    "unit": "2.5kg"
+  },
+  {
+    "city": "上海",
+    "keyword": "金龙鱼大豆油",
+    "rank": 1,
+    "product_name": "金龙鱼精炼一级大豆油 5L",
+    "price": 66.9,
+    "unit": "5L"
+  },
+  {
+    "city": "上海",
+    "keyword": "金龙鱼大豆油",
+    "rank": 2,
+    "product_name": "金龙鱼大豆油 食用油 1.8L",
+    "price": 22.2,
+    "unit": "1.8L"
+  },
+  {
+    "city": "上海",
+    "keyword": "金龙鱼大豆油",
+    "rank": 3,
+    "product_name": "金龙鱼阳光大豆油 900ml",
+    "price": 11.8,
+    "unit": "900ml"
+  },
+  {
+    "city": "上海",
+    "keyword": "纯牛奶",
+    "rank": 1,
+    "product_name": "伊利纯牛奶 250ml*12",
+    "price": 44.8,
+    "unit": "250ml*12"
+  },
+  {
+    "city": "上海",
+    "keyword": "纯牛奶",
+    "rank": 2,
+    "product_name": "蒙牛纯牛奶 整箱 250ml*24",
+    "price": 78.8,
+    "unit": "250ml*24"
+  },
+  {
+    "city": "上海",
+    "keyword": "纯牛奶",
+    "rank": 3,
+    "product_name": "特仑苏纯牛奶 1L",
+    "price": 14.1,
+    "unit": "1L"
+  },
+  {
+    "city": "成都",
+    "keyword": "五花肉",
+    "rank": 1,
+    "product_name": "精选五花肉 鲜切 500g",
+    "price": 16.8,
+    "unit": "500g"
+  },
+  {
+    "city": "成都",
+    "keyword": "五花肉",
+    "rank": 2,
+    "product_name": "国产猪五花肉 去皮 500g",
+    "price": 16.3,
+    "unit": "500g"
+  },
+  {
+    "city": "成都",
+    "keyword": "五花肉",
+    "rank": 3,
+    "product_name": "冷鲜五花肉 带皮 1kg",
+    "price": 38.3,
+    "unit": "1kg"
+  },
+  {
+    "city": "成都",
+    "keyword": "散装鸡蛋",
+    "rank": 1,
+    "product_name": "新鲜散装鸡蛋 500g",
+    "price": 7.0,
+    "unit": "500g"
+  },
+  {
+    "city": "成都",
+    "keyword": "散装鸡蛋",
+    "rank": 2,
+    "product_name": "农家散养土鸡蛋 10枚",
+    "price": 9.9,
+    "unit": "10枚"
+  },
+  {
+    "city": "成都",
+    "keyword": "散装鸡蛋",
+    "rank": 3,
+    "product_name": "优选散装鸡蛋 1kg",
+    "price": 14.1,
+    "unit": "1kg"
+  },
+  {
+    "city": "成都",
+    "keyword": "东北大米",
+    "rank": 1,
+    "product_name": "东北珍珠大米 5kg",
+    "price": 58.9,
+    "unit": "5kg"
+  },
+  {
+    "city": "成都",
+    "keyword": "东北大米",
+    "rank": 2,
+    "product_name": "五常稻花香大米 10kg",
+    "price": 172.1,
+    "unit": "10kg"
+  },
+  {
+    "city": "成都",
+    "keyword": "东北大米",
+    "rank": 3,
+    "product_name": "东北长粒香大米 2.5kg",
+    "price": 67.1,
+    "unit": "2.5kg"
+  },
+  {
+    "city": "成都",
+    "keyword": "金龙鱼大豆油",
+    "rank": 1,
+    "product_name": "金龙鱼精炼一级大豆油 5L",
+    "price": 53.4,
+    "unit": "5L"
+  },
+  {
+    "city": "成都",
+    "keyword": "金龙鱼大豆油",
+    "rank": 2,
+    "product_name": "金龙鱼大豆油 食用油 1.8L",
+    "price": 21.4,
+    "unit": "1.8L"
+  },
+  {
+    "city": "成都",
+    "keyword": "金龙鱼大豆油",
+    "rank": 3,
+    "product_name": "金龙鱼阳光大豆油 900ml",
+    "price": 13.0,
+    "unit": "900ml"
+  },
+  {
+    "city": "成都",
+    "keyword": "纯牛奶",
+    "rank": 1,
+    "product_name": "伊利纯牛奶 250ml*12",
+    "price": 40.4,
+    "unit": "250ml*12"
+  },
+  {
+    "city": "成都",
+    "keyword": "纯牛奶",
+    "rank": 2,
+    "product_name": "蒙牛纯牛奶 整箱 250ml*24",
+    "price": 58.4,
+    "unit": "250ml*24"
+  },
+  {
+    "city": "成都",
+    "keyword": "纯牛奶",
+    "rank": 3,
+    "product_name": "特仑苏纯牛奶 1L",
+    "price": 13.0,
+    "unit": "1L"
+  },
+  {
+    "city": "深圳",
+    "keyword": "五花肉",
+    "rank": 1,
+    "product_name": "精选五花肉 鲜切 500g",
+    "price": 21.1,
+    "unit": "500g"
+  },
+  {
+    "city": "深圳",
+    "keyword": "五花肉",
+    "rank": 2,
+    "product_name": "国产猪五花肉 去皮 500g",
+    "price": 17.6,
+    "unit": "500g"
+  },
+  {
+    "city": "深圳",
+    "keyword": "五花肉",
+    "rank": 3,
+    "product_name": "冷鲜五花肉 带皮 1kg",
+    "price": 38.1,
+    "unit": "1kg"
+  },
+  {
+    "city": "深圳",
+    "keyword": "散装鸡蛋",
+    "rank": 1,
+    "product_name": "新鲜散装鸡蛋 500g",
+    "price": 7.3,
+    "unit": "500g"
+  },
+  {
+    "city": "深圳",
+    "keyword": "散装鸡蛋",
+    "rank": 2,
+    "product_name": "农家散养土鸡蛋 10枚",
+    "price": 9.3,
+    "unit": "10枚"
+  },
+  {
+    "city": "深圳",
+    "keyword": "散装鸡蛋",
+    "rank": 3,
+    "product_name": "优选散装鸡蛋 1kg",
+    "price": 17.4,
+    "unit": "1kg"
+  },
+  {
+    "city": "深圳",
+    "keyword": "东北大米",
+    "rank": 1,
+    "product_name": "东北珍珠大米 5kg",
+    "price": 89.7,
+    "unit": "5kg"
+  },
+  {
+    "city": "深圳",
+    "keyword": "东北大米",
+    "rank": 2,
+    "product_name": "五常稻花香大米 10kg",
+    "price": 137.0,
+    "unit": "10kg"
+  },
+  {
+    "city": "深圳",
+    "keyword": "东北大米",
+    "rank": 3,
+    "product_name": "东北长粒香大米 2.5kg",
+    "price": 80.1,
+    "unit": "2.5kg"
+  },
+  {
+    "city": "深圳",
+    "keyword": "金龙鱼大豆油",
+    "rank": 1,
+    "product_name": "金龙鱼精炼一级大豆油 5L",
+    "price": 58.2,
+    "unit": "5L"
+  },
+  {
+    "city": "深圳",
+    "keyword": "金龙鱼大豆油",
+    "rank": 2,
+    "product_name": "金龙鱼大豆油 食用油 1.8L",
+    "price": 22.0,
+    "unit": "1.8L"
+  },
+  {
+    "city": "深圳",
+    "keyword": "金龙鱼大豆油",
+    "rank": 3,
+    "product_name": "金龙鱼阳光大豆油 900ml",
+    "price": 13.0,
+    "unit": "900ml"
+  },
+  {
+    "city": "深圳",
+    "keyword": "纯牛奶",
+    "rank": 1,
+    "product_name": "伊利纯牛奶 250ml*12",
+    "price": 42.3,
+    "unit": "250ml*12"
+  },
+  {
+    "city": "深圳",
+    "keyword": "纯牛奶",
+    "rank": 2,
+    "product_name": "蒙牛纯牛奶 整箱 250ml*24",
+    "price": 79.4,
+    "unit": "250ml*24"
+  },
+  {
+    "city": "深圳",
+    "keyword": "纯牛奶",
+    "rank": 3,
+    "product_name": "特仑苏纯牛奶 1L",
+    "price": 13.2,
+    "unit": "1L"
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "name": "辽宁",
+    "official_wage": 20.0,
+    "real_wage": 11.5,
+    "basket_price": 18.0,
+    "real_index": 0.64,
+    "verdict": "唯一的乐土 (早市碳水管饱，赖活天堂)",
+    "level": 1,
+    "details": {
+      "pork": 8.1,
+      "eggs": 2.7,
+      "rice": 2.7,
+      "milk": 4.5
+    }
+  },
+  {
+    "name": "内蒙古",
+    "official_wage": 20.0,
+    "real_wage": 11.5,
+    "basket_price": 18.0,
+    "real_index": 0.64,
+    "verdict": "唯一的乐土 (早市碳水管饱，赖活天堂)",
+    "level": 1,
+    "details": {
+      "pork": 8.1,
+      "eggs": 2.7,
+      "rice": 2.7,
+      "milk": 4.5
+    }
+  },
+  {
+    "name": "黑龙江",
+    "official_wage": 20.0,
+    "real_wage": 10.5,
+    "basket_price": 18.0,
+    "real_index": 0.58,
+    "verdict": "相对容易 (除了冷，活着不难)",
+    "level": 1,
+    "details": {
+      "pork": 8.1,
+      "eggs": 2.7,
+      "rice": 2.7,
+      "milk": 4.5
+    }
+  },
+  {
+    "name": "吉林",
+    "official_wage": 20.0,
+    "real_wage": 10.5,
+    "basket_price": 19.0,
+    "real_index": 0.55,
+    "verdict": "相对容易 (物价感人)",
+    "level": 1,
+    "details": {
+      "pork": 8.55,
+      "eggs": 2.85,
+      "rice": 2.85,
+      "milk": 4.75
+    }
+  },
+  {
+    "name": "北京",
+    "official_wage": 20.0,
+    "real_wage": 21.0,
+    "basket_price": 45.0,
+    "real_index": 0.47,
+    "verdict": "手停口停 (赚得多花得更多，存不下钱)",
+    "level": 2,
+    "details": {
+      "pork": 20.25,
+      "eggs": 6.75,
+      "rice": 6.75,
+      "milk": 11.25
+    }
+  },
+  {
+    "name": "广东",
+    "official_wage": 20.0,
+    "real_wage": 14.0,
+    "basket_price": 30.0,
+    "real_index": 0.47,
+    "verdict": "两极分化 (深圳赚钱深圳花，工厂时薪低)",
+    "level": 3,
+    "details": {
+      "pork": 13.5,
+      "eggs": 4.5,
+      "rice": 4.5,
+      "milk": 7.5
+    }
+  },
+  {
+    "name": "天津",
+    "official_wage": 20.0,
+    "real_wage": 21.0,
+    "basket_price": 45.0,
+    "real_index": 0.47,
+    "verdict": "手停口停 (赚得多花得更多，存不下钱)",
+    "level": 2,
+    "details": {
+      "pork": 20.25,
+      "eggs": 6.75,
+      "rice": 6.75,
+      "milk": 11.25
+    }
+  },
+  {
+    "name": "福建",
+    "official_wage": 20.0,
+    "real_wage": 14.0,
+    "basket_price": 30.0,
+    "real_index": 0.47,
+    "verdict": "两极分化 (深圳赚钱深圳花，工厂时薪低)",
+    "level": 3,
+    "details": {
+      "pork": 13.5,
+      "eggs": 4.5,
+      "rice": 4.5,
+      "milk": 7.5
+    }
+  },
+  {
+    "name": "广西",
+    "official_wage": 20.0,
+    "real_wage": 14.0,
+    "basket_price": 30.0,
+    "real_index": 0.47,
+    "verdict": "两极分化 (深圳赚钱深圳花，工厂时薪低)",
+    "level": 3,
+    "details": {
+      "pork": 13.5,
+      "eggs": 4.5,
+      "rice": 4.5,
+      "milk": 7.5
+    }
+  },
+  {
+    "name": "四川",
+    "official_wage": 20.0,
+    "real_wage": 11.0,
+    "basket_price": 24.0,
+    "real_index": 0.46,
+    "verdict": "勉强维持 (安逸是假象，内卷是真)",
+    "level": 2,
+    "details": {
+      "pork": 10.8,
+      "eggs": 3.6,
+      "rice": 3.6,
+      "milk": 6.0
+    }
+  },
+  {
+    "name": "湖北",
+    "official_wage": 20.0,
+    "real_wage": 12.0,
+    "basket_price": 26.0,
+    "real_index": 0.46,
+    "verdict": "一般 (九省通衢，两头不靠)",
+    "level": 2,
+    "details": {
+      "pork": 11.7,
+      "eggs": 3.9,
+      "rice": 3.9,
+      "milk": 6.5
+    }
+  },
+  {
+    "name": "江西",
+    "official_wage": 20.0,
+    "real_wage": 12.0,
+    "basket_price": 26.0,
+    "real_index": 0.46,
+    "verdict": "一般 (九省通衢，两头不靠)",
+    "level": 2,
+    "details": {
+      "pork": 11.7,
+      "eggs": 3.9,
+      "rice": 3.9,
+      "milk": 6.5
+    }
+  },
+  {
+    "name": "湖南",
+    "official_wage": 20.0,
+    "real_wage": 12.0,
+    "basket_price": 26.0,
+    "real_index": 0.46,
+    "verdict": "一般 (九省通衢，两头不靠)",
+    "level": 2,
+    "details": {
+      "pork": 11.7,
+      "eggs": 3.9,
+      "rice": 3.9,
+      "milk": 6.5
+    }
+  },
+  {
+    "name": "重庆",
+    "official_wage": 20.0,
+    "real_wage": 11.0,
+    "basket_price": 24.0,
+    "real_index": 0.46,
+    "verdict": "勉强维持 (安逸是假象，内卷是真)",
+    "level": 2,
+    "details": {
+      "pork": 10.8,
+      "eggs": 3.6,
+      "rice": 3.6,
+      "milk": 6.0
+    }
+  },
+  {
+    "name": "贵州",
+    "official_wage": 20.0,
+    "real_wage": 11.0,
+    "basket_price": 24.0,
+    "real_index": 0.46,
+    "verdict": "勉强维持 (安逸是假象，内卷是真)",
+    "level": 2,
+    "details": {
+      "pork": 10.8,
+      "eggs": 3.6,
+      "rice": 3.6,
+      "milk": 6.0
+    }
+  },
+  {
+    "name": "云南",
+    "official_wage": 20.0,
+    "real_wage": 11.0,
+    "basket_price": 24.0,
+    "real_index": 0.46,
+    "verdict": "勉强维持 (安逸是假象，内卷是真)",
+    "level": 2,
+    "details": {
+      "pork": 10.8,
+      "eggs": 3.6,
+      "rice": 3.6,
+      "milk": 6.0
+    }
+  },
+  {
+    "name": "上海",
+    "official_wage": 20.0,
+    "real_wage": 21.0,
+    "basket_price": 48.0,
+    "real_index": 0.44,
+    "verdict": "魔都结界 (便利店盒饭都吃不起)",
+    "level": 2,
+    "details": {
+      "pork": 21.6,
+      "eggs": 7.2,
+      "rice": 7.2,
+      "milk": 12.0
+    }
+  },
+  {
+    "name": "江苏",
+    "official_wage": 20.0,
+    "real_wage": 21.0,
+    "basket_price": 48.0,
+    "real_index": 0.44,
+    "verdict": "魔都结界 (便利店盒饭都吃不起)",
+    "level": 2,
+    "details": {
+      "pork": 21.6,
+      "eggs": 7.2,
+      "rice": 7.2,
+      "milk": 12.0
+    }
+  },
+  {
+    "name": "浙江",
+    "official_wage": 20.0,
+    "real_wage": 21.0,
+    "basket_price": 48.0,
+    "real_index": 0.44,
+    "verdict": "魔都结界 (便利店盒饭都吃不起)",
+    "level": 2,
+    "details": {
+      "pork": 21.6,
+      "eggs": 7.2,
+      "rice": 7.2,
+      "milk": 12.0
+    }
+  },
+  {
+    "name": "河南",
+    "official_wage": 20.0,
+    "real_wage": 9.0,
+    "basket_price": 22.0,
+    "real_index": 0.41,
+    "verdict": "困难 (人多工价贱，9块钱都有人抢)",
+    "level": 3,
+    "details": {
+      "pork": 9.9,
+      "eggs": 3.3,
+      "rice": 3.3,
+      "milk": 5.5
+    }
+  },
+  {
+    "name": "河北",
+    "official_wage": 20.0,
+    "real_wage": 9.0,
+    "basket_price": 22.0,
+    "real_index": 0.41,
+    "verdict": "困难 (人多工价贱，9块钱都有人抢)",
+    "level": 3,
+    "details": {
+      "pork": 9.9,
+      "eggs": 3.3,
+      "rice": 3.3,
+      "milk": 5.5
+    }
+  },
+  {
+    "name": "山西",
+    "official_wage": 20.0,
+    "real_wage": 9.0,
+    "basket_price": 22.0,
+    "real_index": 0.41,
+    "verdict": "困难 (人多工价贱，9块钱都有人抢)",
+    "level": 3,
+    "details": {
+      "pork": 9.9,
+      "eggs": 3.3,
+      "rice": 3.3,
+      "milk": 5.5
+    }
+  },
+  {
+    "name": "安徽",
+    "official_wage": 20.0,
+    "real_wage": 9.0,
+    "basket_price": 22.0,
+    "real_index": 0.41,
+    "verdict": "困难 (人多工价贱，9块钱都有人抢)",
+    "level": 3,
+    "details": {
+      "pork": 9.9,
+      "eggs": 3.3,
+      "rice": 3.3,
+      "milk": 5.5
+    }
+  },
+  {
+    "name": "陕西",
+    "official_wage": 20.0,
+    "real_wage": 9.0,
+    "basket_price": 22.0,
+    "real_index": 0.41,
+    "verdict": "困难 (人多工价贱，9块钱都有人抢)",
+    "level": 3,
+    "details": {
+      "pork": 9.9,
+      "eggs": 3.3,
+      "rice": 3.3,
+      "milk": 5.5
+    }
+  },
+  {
+    "name": "山东",
+    "official_wage": 20.0,
+    "real_wage": 10.0,
+    "basket_price": 25.0,
+    "real_index": 0.4,
+    "verdict": "困难 (考公大省，打工者地狱)",
+    "level": 3,
+    "details": {
+      "pork": 11.25,
+      "eggs": 3.75,
+      "rice": 3.75,
+      "milk": 6.25
+    }
+  },
+  {
+    "name": "西藏",
+    "official_wage": 20.0,
+    "real_wage": 12.0,
+    "basket_price": 40.0,
+    "real_index": 0.3,
+    "verdict": "无法生存 (物价堪比欧洲，工资堪比非洲)",
+    "level": 4,
+    "details": {
+      "pork": 18.0,
+      "eggs": 6.0,
+      "rice": 6.0,
+      "milk": 10.0
+    }
+  },
+  {
+    "name": "青海",
+    "official_wage": 20.0,
+    "real_wage": 12.0,
+    "basket_price": 40.0,
+    "real_index": 0.3,
+    "verdict": "无法生存 (物价堪比欧洲，工资堪比非洲)",
+    "level": 4,
+    "details": {
+      "pork": 18.0,
+      "eggs": 6.0,
+      "rice": 6.0,
+      "milk": 10.0
+    }
+  },
+  {
+    "name": "新疆",
+    "official_wage": 20.0,
+    "real_wage": 11.0,
+    "basket_price": 38.0,
+    "real_index": 0.29,
+    "verdict": "地狱模式 (运费贵死人，拌面30一碗)",
+    "level": 4,
+    "details": {
+      "pork": 17.1,
+      "eggs": 5.7,
+      "rice": 5.7,
+      "milk": 9.5
+    }
+  },
+  {
+    "name": "海南",
+    "official_wage": 20.0,
+    "real_wage": 10.0,
+    "basket_price": 35.0,
+    "real_index": 0.29,
+    "verdict": "天崩开局 (东北人的富人区，本地人的火坑)",
+    "level": 5,
+    "details": {
+      "pork": 15.75,
+      "eggs": 5.25,
+      "rice": 5.25,
+      "milk": 8.75
+    }
+  },
+  {
+    "name": "甘肃",
+    "official_wage": 20.0,
+    "real_wage": 11.0,
+    "basket_price": 38.0,
+    "real_index": 0.29,
+    "verdict": "地狱模式 (运费贵死人，拌面30一碗)",
+    "level": 4,
+    "details": {
+      "pork": 17.1,
+      "eggs": 5.7,
+      "rice": 5.7,
+      "milk": 9.5
+    }
+  },
+  {
+    "name": "宁夏",
+    "official_wage": 20.0,
+    "real_wage": 11.0,
+    "basket_price": 38.0,
+    "real_index": 0.29,
+    "verdict": "地狱模式 (运费贵死人，拌面30一碗)",
+    "level": 4,
+    "details": {
+      "pork": 17.1,
+      "eggs": 5.7,
+      "rice": 5.7,
+      "milk": 9.5
+    }
+  }
+]
